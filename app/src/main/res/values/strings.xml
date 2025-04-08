@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="acoount">No account yet?<u><font color='#C7A154'>Sign Up</font></u></string>
+    <string name="welcome_message">Welcome to this iconic game of choices</string>
+    <string name="begin">Begin</string>
+    <string name="exit">Exit</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account_yet"></string>
+    <string name="try_again">Try Again</string>
+    <string name="won">You have won :</string>
+    <string name="lost">You have lost</string>
+</resources>
